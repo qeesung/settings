@@ -1,4 +1,4 @@
-# settings
+# configures 
 我的一些配置文件：
 
 - vim配置文件:`.vimrc`
